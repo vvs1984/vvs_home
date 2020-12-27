@@ -1,0 +1,7 @@
+compress-fasttext==0.0.6
+numpy==1.18.5
+pandas==1.1.5
+sentencepiece==0.1.94
+torch==1.7.0+cu101
+tqdm==4.41.1
+transformers==4.0.1
